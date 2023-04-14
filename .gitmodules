@@ -1,4 +1,0 @@
-[submodule "era-compiler-tester"]
-	path = era-compiler-tester
-	url = https://github.com/matter-labs/era-compiler-tester.git
-	branch = code4rena
